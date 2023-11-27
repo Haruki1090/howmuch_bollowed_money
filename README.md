@@ -1,7 +1,5 @@
 # howmuch_bollowed_money
 
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
